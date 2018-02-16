@@ -160,7 +160,7 @@ function onMouseClick(e) {
   }
   if (congrats) {
     alert("You won! Move onto the next level");
-    window.location.href = "easy_level_2.html";
+    window.location.href = "Easy/easy_level_2.html";
   }
 }
 
